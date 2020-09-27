@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>FsharpSyntaxHighlightingBugs</RootNamespace>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="SplitModuleAndFunctionName.fs" />
+    <Compile Include="MultilinePatternMatch.fs" />
+  </ItemGroup>
+</Project>
