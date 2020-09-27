@@ -3,6 +3,10 @@
 This repository demonstrates some F# syntax highlighting issues I encountered
 when using Visual Studio Code 1.49.1 with the Ionide-fsharp extension (v4.17.0).
 
+I raised this as an [issue
+(#1424)](https://github.com/ionide/ionide-vscode-fsharp/issues/1424) against
+[ionide-vscode-fsharp](https://github.com/ionide/ionide-vscode-fsharp).
+
 
 ## Visual Studio Code details
 
